@@ -53,7 +53,7 @@ HumanVSAI/
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/human-vs-machine-thinking.git
+git clone https://github.com/your-username/Dual-Thinking-Engine.git
 
 2. Open the project folder
 
