@@ -1,6 +1,6 @@
 # 🧠 Human vs 🤖 Machine Thinking Visualizer
 
-A creative JavaScript project that compares **how humans think emotionally vs how machines think logically** — powered by AI.
+A creative JavaScript project that compares **how humans think emotionally vs how machines think logically** 
 ---------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Project Overview
